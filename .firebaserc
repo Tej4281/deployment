@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "form-captcha-master": {
+      "hosting": {
+        "web": [
+          "form-captcha-master"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "form-captcha-master"
+  }
+}

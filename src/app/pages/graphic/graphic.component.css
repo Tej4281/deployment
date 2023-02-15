@@ -1,0 +1,29 @@
+.images{
+    height: 450px;
+}
+.card-text{
+    height: 140px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+}
+
+
+.custom-shape-divider-bottom-1674637043 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1674637043 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 181px;
+}
+
+.custom-shape-divider-bottom-1674637043 .shape-fill {
+  fill: #FFFFFF;
+}
